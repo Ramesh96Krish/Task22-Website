@@ -1,0 +1,20 @@
+.index-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 80px;
+    align-items: center;
+}
+.btn-container{
+    width: 100px;
+    text-align: center;
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    height: 45px;
+    margin-top: 8px;
+}
+.btn-container:hover{
+    background-color: #0a58ca;
+    cursor: pointer;
+}

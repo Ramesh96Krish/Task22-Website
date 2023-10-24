@@ -1,0 +1,20 @@
+.large-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+    background-image: url('../../Assets/sea-icon.jpg');
+}
+.email-input{
+    height: 40px;
+    width: 260px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-right: 20px;
+}
+.random-text{
+    color: rgb(82, 100, 120);
+}

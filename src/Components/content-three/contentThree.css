@@ -1,0 +1,11 @@
+.boot-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+    background-color: #f8f9fa;
+    /* flex-wrap: wrap; */
+}
+.icons-container{
+    text-align: center;
+}
